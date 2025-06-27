@@ -232,6 +232,13 @@ Hardware in this family uses Dynamixel servo motors, which are considered more o
 
 ## Robot Arms: <a name="robot-arms-dynamixel"></a>
 
+### [LeRobot OJW](https://github.com/ojw5014/lerobot_ojw)
+
+Ever dreamed of building a fully functional robot using official DYNAMIXEL servos?
+Here’s your chance to do it with a compact budget and high performance.
+
+<img src="media/LeRobot OJW.png" width="500">
+
 ### [jess-moss/koch-v1-1](https://github.com/jess-moss/koch-v1-1)
 
 The Koch-v1-1 is a 5 DOF robotic arm. If you want to familiarise yourself with more industry standard Dynamixel servo motors, this project could be a good starting point. Compared to the SO-ARM100, you will have less torque and a more limited range of movement from its base.
